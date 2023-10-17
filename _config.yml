@@ -18,9 +18,9 @@ email: "vnguyen.rit@gmail.com"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: "Plainwhite"
+theme: "minima"
 
-#rss: rss
+rss: rss
 
 kramdown:
   syntax_highlighter_opts:
